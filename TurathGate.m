@@ -3,11 +3,11 @@
 // ||         عدّل السطور أدناه فقط         ||
 // ==========================================
 // رمز الدخول (غيره من هنا)
-#define PASSCODE @"123000"
+#define PASSCODE @"1235"
 // رابط تيليجرام
 #define TELEGRAM @"https://t.me/turath_st"
 // رابط الحصول على الرمز (اتركه فارغاً إذا لم يكن لديك رابط)
-#define CODE_LINK @"https://turath-store.com"
+#define CODE_LINK @"https://t.me/Alturathvbot?start=btn_bmr8jiq4ephh"
 // اسم المتجر في الشاشة
 #define STORE_TITLE @"التراث ستور"
 #define STORE_SUBTITLE @"— TURATH STORE —"
