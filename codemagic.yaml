@@ -1,4 +1,4 @@
-```yaml
+
 workflows:
   ios-dylib-build:
     name: Build iOS Dylib (TurathGate)
@@ -36,4 +36,3 @@ workflows:
     artifacts:
       - "*.dylib"
 
-```
